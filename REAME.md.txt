@@ -1,0 +1,6 @@
+Projeto MVC - Restaurante
+
+
+
+Criação de Projeto em MVC para adicionar, listar e contabilizar o valor de pedidos realizados em um restaurante.
+
